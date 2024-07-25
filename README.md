@@ -88,7 +88,7 @@ Contributions are welcome! Please follow these steps to contribute:
 
 2. *Clone your forked repository*:
     bash
-    git clone https://github.com/YashMankar1812/Olx.git
+    git clone https://github.com/Aditya234892/OLX--Project.git
     cd OLX--Project
     
 
